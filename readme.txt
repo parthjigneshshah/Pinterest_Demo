@@ -3,7 +3,7 @@ MYTACKS SYSTEM
 ---------------------------------------------
 ---------------------------------------------
 
-You will need following things to run the CODE:
+REQUIREMENTS:
 
 1) IDE Requirements:
 In order to run this application you will need to install ECLIPSE IDE FOR JAVA EE DEVELOPERS to your system.
