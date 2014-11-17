@@ -1,7 +1,7 @@
 package com.mytacks.group10.tagatTack.bean;
 
 import com.mytacks.group10.tagatTack.model.FileDetails;
-
+//Changes to BoardBean class committed.
 public class BoardBean 
 {
 	private FileDetails boardImage;
